@@ -1,9 +1,9 @@
-# [rewrite_local]
+[rewrite_local]
 # 加藤视频VIP解锁脚本（自动获取配置）
 ^https?:\/\/.*\/shorter\/anime\/tbookchapter0\/info\?bookId.* url script-request-header auto_fetch_vip_unlock.js
 ^https?:\/\/.*\/shorter\/(video\/longvideoinfo|resource\/adInfoPageList\?adSpaceId|user\/getUser|resource\/getWindowNotice|tabIconConfigView|user\/getVipPvg|video\/home|video\/search).* url script-response-body auto_fetch_vip_unlock.js
 
-# [mitm]
+[mitm]
 hostname = 5jsd6q7.jnfkdtm.xyz,yw4pk9h.7fw2snb.xyz,m3pkeg2.v4l0p7y.xyz,ip6vu33.im0684h.xyz,bor4lch.8l6ldmz.xyz,zqlhcn.kl9117.xyz,hkg2zx.stejnu.xyz,zvqldx.xv8gvn.xyz,kuhikr.1t3vwf.xyz,s4788x.taqndh.xyz,xkewutdekf873sr.chairsr.com,103.85.254.233,omfnmh.x2b3w6.xyz,sgwitxgwit231sr.xunwxc.com,ssgwew231s.uzqew4qi.info,ykofye.qklmoq.xyz,pmmqls.gregdoro.com,rdxijq.vo9ugl.xyz,bpitbu.ouxf9g.live,tjactb.xk2nsy.live,us6tp7.dkr9cv.live,qsukip.9jts57.live,wkqyx6.qdokqj.live,fqohbx.bkljtx.live,zihjyv.jajrc1.live,y7uyqg.hl8dbl.live,qrdure.youngnoble.cn,kpoe2e.x8w7t3.live,fceyeg.johjxe.com,*.vo9ugl.xyz,bsxqtd.xk8q7w.xyz,grvgdq.81fbg2.xyz,vcryyw.uc86fy.xyz,xospby.mldo9k.xyz,roa6fi.lyr6if.live,gp1wpm.xcg3zr.xyz,nfmq0v.lknlqz.xyz,nhppjkb.z5x6pzr.xyz,fwroeor.revxcvx.xyz,uetuys234ls.pbog5txn.app,hrp27mr.1ugq1uf.xyz,zd7uwox.8ewxvhz.xyz,lieeys42jdi2kd.cx4c5mv7.info,fjboni.jn6588.xyz,rylzit.wqws5z.xyz,riwnkx.sw05uv.xyz,bsxqtd.xk8q7w.xyz,grvgdq.81fbg2.xyz,Lieeys42jdi2kd.cx4c5mv7.info,pmmqls.gregdoro.com,103.85.254.233,omfnmh.x2b3w6.xyz,rdxijq.vo9ugl.xyz,bpitbu.ouxf9g.live,tjactb.xk2nsy.live,us6tp7.dkr9cv.live
 
 /*
